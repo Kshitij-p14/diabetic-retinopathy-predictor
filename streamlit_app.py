@@ -1,1 +1,1 @@
-from app_enhanced import *
+import app_enhanced
